@@ -1,0 +1,7 @@
+[defaults]
+url=https://sentry.io/
+org=famestream
+project=news-platform
+
+[auth]
+token=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
